@@ -459,7 +459,7 @@
                     <version>${maven-compiler-plugin.version}</version>
                     <configuration>
                         <source>${java.version}</source>
-                        <target>${java.version}</target>
+<!--                        <target>${java.version}</target>-->
                         <annotationProcessorPaths>
                             <path>
                                 <groupId>org.springframework.boot</groupId>
